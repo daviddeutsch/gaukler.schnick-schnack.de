@@ -1,0 +1,567 @@
+{
+	"charity":             "html",
+	"technik":             "html",
+	"referenzen":          "html",
+	"kosten":              "html",
+	"kontakt":             "html",
+	"akrobatik":           [
+		{
+			"image": "data/impuls_01.jpg",
+			"title": "<em>Impuls:</em> Eine rasante, spannungsgeladene Akrobatik zu pulsierender Musik"
+		},
+		{
+			"image": "data/impuls_02.jpg",
+			"title": "<em>Impuls:</em> Hochkar&auml;tige dynamische Elemente und pr&auml;zise Partnerakrobatik verbinden sich zu einen Feuerwerk der Energie"
+		},
+		{
+			"image": "data/let_me_fall_01.jpg",
+			"title": "<em>Let me fall:</em> Gleichgewicht ist eine Frage blinden Vertrauens."
+		},
+		{
+			"image": "data/let_me_fall_03.jpg",
+			"title": "<em>Let me fall:</em> Eine Darbietung die von ihrer Stille lebt"
+		},
+		{
+			"image": "data/let_me_fall_04.jpg",
+			"title": "<em>Let me fall:</em> Eine Pr&auml;sentation, die durch ihre Behutsamkeit ber&uuml;hrt"
+		},
+		{
+			"image": "data/die_blaue_blume.jpg",
+			"title": "<em>Die blaue Blume:</em> Eine akrobatische Liebesgeschichte"
+		},
+		{
+			"image": "data/der_hammer_05.jpg",
+			"title": "<em>Der Hammer:</em> Ein Clownsspektakel mit voller Wucht"
+		},
+		{
+			"image": "data/der_hammer_01.jpg",
+			"title": "<em>Der Hammer:</em> Ein Blick in die Abgr&uuml;nde der menschlichen Seele"
+		},
+		{
+			"image": "data/der_hammer_07.jpg",
+			"title": "<em>Der Hammer:</em> Schlagfertig"
+		},
+		{
+			"image": "data/der_hammer_03.jpg",
+			"title": "<em>Der Hammer:</em> Nach den Regeln des Clowns"
+		},
+		{
+			"image": "data/der_hammer_06.jpg",
+			"title": "<em>Der Hammer:</em> Tollpatschig "
+		},
+		{
+			"image": "data/der_hammer_04.jpg",
+			"title": "<em>Der Hammer:</em> Akrobatisch und komisch"
+		},
+		{
+			"image": "data/cherobinio.jpg",
+			"title": "<em>Cherobino:</em> H&ouml;chste akrobatische Kunst am Vertikaltuch"
+		},
+		{
+			"image": "data/wackelmaennchen_01.jpg",
+			"title": "<em>Wackelm&auml;nnchen:</em> Wackelm&auml;nnchen sind die kleinen Figuren, die zusammenbrechen, wenn man unten dr&uuml;ckt"
+		},
+		{
+			"image": "data/wackelmaennchen_02.jpg",
+			"title": "<em>Wackelm&auml;nnchen:</em> Joujou ist so ein P&uuml;ppchen"
+		},
+		{
+			"image": "data/wackelmaennchen_03.jpg",
+			"title": "<em>Wackelm&auml;nnchen:</em> Joujou tr&auml;umt vom Fliegen"
+		},
+		{
+			"image": "data/wackelmaennchen_04.jpg",
+			"title": "<em>Wackelm&auml;nnchen:</em> F&uuml;r einen Moment frei und lebendig"
+		},
+		{
+			"image": "data/publikumsakrobatik.jpg",
+			"title": "<em>Publikumsakrobatik:</em> Animation vom Allerfeinsten. Wir verwickeln Ihre G&auml;ste in akrobatische Kunstst&uuml;cke und stapeln sie zu meterhohen Pyramiden."
+		},
+		{
+			"image": "data/kaempfer_01.jpg",
+			"title": "<em>Fight:</em> Skulpturen im Mondlicht"
+		},
+		{
+			"image": "data/kaempfer_02.jpg",
+			"title": "<em>Fight:</em> Marmor erwacht zum Leben"
+		},
+		{
+			"image": "data/kaempfer_03.jpg",
+			"title": "<em>Fight:</em> Artisten in einen akrobatischen Kampf"
+		}
+	],
+	"closeup_zaubern":     [
+		{
+			"image": "data/closeup_01.jpg",
+			"title": "<em>Closeup:</em> Eloquenz und Missgeschicklichkeit in perfekter Symbiose"
+		},
+		{
+			"image": "data/closeup_02.jpg",
+			"title": "<em>Closeup:</em> Naturgesetze außer Kraft"
+		},
+		{
+			"image": "data/closeup_03.jpg",
+			"title": "<em>Closeup:</em> &Uuml;berraschend anders"
+		},
+		{
+			"image": "data/closeup_04.jpg",
+			"title": "<em>Closeup:</em> Feingef&uuml;hl im Spiel mit dem Publikum"
+		}
+	],
+	"clownerie_slapstick": [
+		{
+			"image": "data/bettgeschichten.jpg",
+			"title": "<em>Bettgeschichten:</em> Eigentlich wollte Paul nur schlafen"
+		},
+		{
+			"image": "data/bettgeschichten_02.jpg",
+			"title": "<em>Bettgeschichten:</em> doch dann kam alles anders"
+		},
+		{
+			"image": "data/bettgeschichten_03.jpg",
+			"title": "<em>Bettgeschichten:</em> Das Bett lebt"
+		},
+		{
+			"image": "data/bettgeschichten_04.jpg",
+			"title": "<em>Bettgeschichten:</em> Die Nacht wird zum komischen Alptraum"
+		},
+		{
+			"image": "data/paul_02.jpg",
+			"title": "<em>Paul:</em> Es ist die Geschichte eines Traumt&auml;nzers, der sich nichts sehnlicher w&uuml;nscht, als den Zug zu seiner Geliebten zu erreichen."
+		},
+		{
+			"image": "data/paul.jpg",
+			"title": "<em>Paul:</em> Ein Clown, der sich hemmungslos in seinem T-Shirt verstrickt Ein Clown, der verpasst, wonach er sucht und findet, was er verdient."
+		},
+		{
+			"image": "data/zinnsoldat_05.jpg",
+			"title": "<em>Zinnsoldat:</em> Mensch oder Puppe?"
+		},
+		{
+			"image": "data/zinnsoldat_02.jpg",
+			"title": "<em>Zinnsoldat:</em> Man sollte es lieber nicht testen"
+		},
+		{
+			"image": "data/zinnsoldat_03.jpg",
+			"title": "<em>Zinnsoldat:</em> Außer, man macht sich gerne zum Clown"
+		},
+		{
+			"image": "data/zinnsoldat_04.jpg",
+			"title": "<em>Zinnsoldat:</em> Wir machen uns gerne zum Clowns, damit das Publikum etwas zu lachen hat!"
+		},
+		{
+			"image": "data/getraenkemarkt_03.jpg",
+			"title": "<em>Getr&auml;nkemarkt:</em> Diese sympathischen Trottel wollten einen Getr&auml;nkemarkt er&ouml;ffnen"
+		},
+		{
+			"image": "data/getraenkemarkt_04.jpg",
+			"title": "<em>Getr&auml;nkemarkt:</em> Als die Kundschaft ausbleibt, verwandeln sich die Bierk&auml;sten in Turnger&auml;te und Jonglier-Utensilien"
+		},
+		{
+			"image": "data/getraenkemarkt.jpg",
+			"title": "<em>Getr&auml;nkemarkt:</em> Eine Nummer die zeigt, welche M&ouml;glichkeiten der Alltag f&uuml;r uns bereit h&auml;lt, wenn wir nur so dumm und kreativ sind, wie es eben geht"
+		},
+		{
+			"image": "data/clownswerker_05.jpg",
+			"title": "<em>Clowns-Werker:</em> Eigentlich sollten die Clowns nur ein Schildchen gerade r&uuml;cken."
+		},
+		{
+			"image": "data/clowns_werker_01.jpg",
+			"title": "<em>Clowns-Werker:</em> Doch eine Leiter bietet ein weites Feld f&uuml;r Pannen und T&uuml;cken. Clowns wissen sie auszukosten."
+		},
+		{
+			"image": "data/clownswerker_06.jpg",
+			"title": "<em>Clowns-Werker:</em> Waghalsig und charmant"
+		},
+		{
+			"image": "data/clownswerker_07.jpg",
+			"title": "<em>Clowns-Werker:</em> Eine akrobatische Clownerie"
+		},
+		{
+			"image": "data/clownerie_die_klebt_01.jpg",
+			"title": "<em>Clownerie die klebt:</em> Wenn Clowns Plakate kleben…"
+		},
+		{
+			"image": "data/clownerie_die_klebt_05.jpg",
+			"title": "<em>Clownerie die klebt:</em> dann kleben die Plakate, an Clowns"
+		},
+		{
+			"image": "data/clownerie_die_klebt_06.jpg",
+			"title": "<em>Clownerie die klebt:</em> Clowns kleben am Boden"
+		},
+		{
+			"image": "data/clownerie_die_klebt_07.jpg",
+			"title": "<em>Clownerie die klebt:</em> Clowns kleben an andern Clowns"
+		},
+		{
+			"image": "data/clownerie_die_klebt_08.jpg",
+			"title": "<em>Clownerie die klebt:</em> Und Clowns kleben an Zuschauer"
+		},
+		{
+			"image": "data/der_badezuber_01.jpg",
+			"title": "<em>Der Badezuber:</em> Clown und Entchen wollen Baden."
+		},
+		{
+			"image": "data/der_badezuber_02.jpg",
+			"title": "<em>Der Badezuber:</em> Doch die Wanne steckt voller &Uuml;berraschungen"
+		},
+		{
+			"image": "data/der_badezuber_03.jpg",
+			"title": "<em>Der Badezuber:</em> Aufz&uuml;ge f&ouml;rdern unerw&uuml;nschte G&auml;ste ans Licht"
+		},
+		{
+			"image": "data/der_badezuber_04.jpg",
+			"title": "<em>Der Badezuber:</em> Begegnungen mit Haien und Paschas…"
+		},
+		{
+			"image": "data/der_badezuber_05.jpg",
+			"title": "<em>Der Badezuber:</em> …lassen den Badetag zum Abenteuer werden"
+		},
+		{
+			"image": "data/IMG_6750.jpg",
+			"title": "<em>Eiersalat:</em> Der Klassiker unter den Slapstick-Jonglagen."
+		},
+		{
+			"image": "data/der_kleine_tim_01.jpg",
+			"title": "<em>Der kleine Tim:</em> Das ist Tim, f&uuml;nf Jahre alt."
+		},
+		{
+			"image": "data/der_kleine_tim_02.jpg",
+			"title": "<em>Der kleine Tim:</em> Tim muss Pipi, verheddert sich in seinen Ringen und zaubert ganz nebenbei ganz fantastisch ohne es eigentlich zu beabsichtigen."
+		},
+		{
+			"image": "data/bella_diabolo_01.jpg",
+			"title": "<em>Bella Diabolo:</em> Ein st&ouml;rrischer Hund, ein hundefl&uuml;sternder Clown...."
+		},
+		{
+			"image": "data/bella_diabolo_02.jpg",
+			"title": "<em>Bella Diabolo:</em> ...und eine Diabolonummer für die Lachmuskeln"
+		}
+	],
+	"einrad_stelzen":      [
+		{
+			"image": "data/maskerade_03.jpg",
+			"title": "<em>Maskerade:</em> Hinter den Masken schlummert dein Tanz"
+		},
+		{
+			"image": "data/maskerade_01.jpg",
+			"title": "<em>Maskerade:</em> Eine Geschichte der Befreiung"
+		},
+		{
+			"image": "data/maskerade_02.jpg",
+			"title": "<em>Maskerade:</em> Ein atemberaubender Tanz auf Stelzen"
+		},
+		{
+			"image": "data/la_scala_03.jpg",
+			"title": "<em>La Scala:</em> Die Skulptur verl&auml;sst ihren Sockel"
+		},
+		{
+			"image": "data/la_scala_01.jpg",
+			"title": "<em>La Scala:</em> Ein Artist erwacht zum Tanz auf einem Rad"
+		},
+		{
+			"image": "data/la_scala_02.jpg",
+			"title": "<em>La Scala:</em> Eine poetische Choreographie gepaart mit brillanter Einradtechnik"
+		}
+	],
+	"feuerkunst":          [
+		{
+			"image": "data/feuershow_01.jpg",
+			"title": "<em>Feuershow:</em> Shows, die den Atem stocken lassen"
+		},
+		{
+			"image": "data/taste_of_fire_01.jpg",
+			"title": "<em>Taste of Fire:</em> Wer das Feuer schluckt…"
+		},
+		{
+			"image": "data/taste_of_fire_02.jpg",
+			"title": "<em>Taste of Fire:</em> …der kann es in die Nacht hinaus speien"
+		},
+		{
+			"image": "data/bamboo_03.jpg",
+			"title": "<em>Bamboo:</em> In dieser temporeichen Fackeljonglage, jagt eine Flamme die andere und zum Rhythmus pulsierender Trommeln ein Kunstst&uuml;ck das n&auml;chste."
+		},
+		{
+			"image": "data/firespinning_03.jpg",
+			"title": "<em>Firespinning:</em> Artistik des Lichts"
+		},
+		{
+			"image": "data/firespinning_05.jpg",
+			"title": "<em>Firespinning:</em> Eine extrem schnelle Lanzenrotation mit akrobatischen Highlights"
+		},
+		{
+			"image": "data/poi_und_jump_01.jpg",
+			"title": "<em>Poi and Jump:</em> Eine Fusion aus Fireswinging und Bewegung"
+		},
+		{
+			"image": "data/poi_und_jump_02.jpg",
+			"title": "<em>Poi and Jump:</em> Ein harmonisches Spiel aus K&ouml;rperkunst und Feuertanz"
+		},
+		{
+			"image": "data/the_art_of_fire_03.jpg",
+			"title": "<em>The Art of Fire:</em> Eine kleine Geschichte: Der K&uuml;nstler sitzt vor der weißen Leinwand. Sucht nach seinem Bild."
+		},
+		{
+			"image": "data/the_art_of_fire_01.jpg",
+			"title": "<em>The Art of Fire:</em> Im Feuer findet der Suchender die Inspiration und malt ein bewegtes Bild der Flammen auf die Leinwand seiner Phantasie."
+		},
+		{
+			"image": "data/trio_infernale_07.jpg",
+			"title": "<em>Trio Infernale:</em> Feuer im Blick"
+		},
+		{
+			"image": "data/trio_infernale_08.jpg",
+			"title": "<em>Trio Infernale:</em> Wenn diese drei junge Frauen mit dem Feuer spielen, wird es heiß"
+		},
+		{
+			"image": "data/trio_infernale_09.jpg",
+			"title": "<em>Trio Infernale:</em> Ein Tanz auf dem Vulkan"
+		}
+	],
+	"hulahoop_swinging":   [
+		{
+			"image": "data/kiwido_entpuppung_04.jpg",
+			"title": "<em>Kiwido Entpuppung:</em> Aus schwarzen Stoffh&uuml;llen schl&uuml;pfen Arme, Beine, Gesichter."
+		},
+		{
+			"image": "data/kiwido_entpuppung_01.jpg",
+			"title": "<em>Kiwido Entpuppung:</em> Artistinnen verbinden Kiwidokunst mit Partnerakrobatik."
+		},
+		{
+			"image": "data/hula_rocknroll_01.jpg",
+			"title": "<em>Hula Rock´n Roll:</em> Die Auferstehung der 60er."
+		},
+		{
+			"image": "data/hula_rocknroll_05.jpg",
+			"title": "<em>Hula Rock´n Roll:</em> Hier wird abgerockt."
+		},
+		{
+			"image": "data/hula_rocknroll_08.jpg",
+			"title": "<em>Hula Rock´n Roll:</em> Hulahoop zu einem Medley der Musikgeschichte."
+		},
+		{
+			"image": "data/maori_dancing_03.jpg",
+			"title": "<em>Maori Dancing:</em> Eine Farben spr&uuml;hende Choreographie aus Tanz und Kiwidokunst der Maori."
+		},
+		{
+			"image": "data/maori_dancing_04.jpg",
+			"title": "<em>Maori Dancing:</em> Eine Show, bei der kein Zuschauer auf den B&auml;nken bleibt."
+		}
+	],
+	"jonglage":            [
+		{
+			"image": "data/roxanne_01.jpg",
+			"title": "<em>Roxanne:</em> Diabolo tanzt Tango"
+		},
+		{
+			"image": "data/roxanne_02.jpg",
+			"title": "<em>Roxanne:</em> Eine Leidenschaftliche Komposition"
+		},
+		{
+			"image": "data/roxanne_03.jpg",
+			"title": "<em>Roxanne:</em> Ein Feuerwerk aus Licht und Liebe"
+		},
+		{
+			"image": "data/ballkontakt_02.jpg",
+			"title": "<em>Ballkontakt:</em> Eine Balljonglage mit 5 B&auml;llen und einer Glaskugel"
+		},
+		{
+			"image": "data/ballkontakt_03.jpg",
+			"title": "<em>Ballkontakt:</em> Das Geheimnis entfaltet seine zerbrechliche Sch&ouml;nheit"
+		},
+		{
+			"image": "data/ballkontakt_04.jpg",
+			"title": "<em>Ballkontakt:</em> Und schafft Momente der Schwerelosigkeit"
+		},
+		{
+			"image": "data/sticky_boxes_03.jpg",
+			"title": "<em>Sticky Boxes:</em> Wassertropfen im Kerker, sind der Rhythmus f&uuml;r das Spiel des Gefangenen"
+		},
+		{
+			"image": "data/sticky_boxes_04.jpg",
+			"title": "<em>Sticky Boxes:</em> Eine Zigarrenkistenjonglage zu Alltagsger&auml;uschen, die durch die Gef&auml;ngnismauern dringen"
+		},
+		{
+			"image": "data/kaskade_01.jpg",
+			"title": "<em>Kaskade:</em> Eine temporeiche Ball-Jonglage"
+		},
+		{
+			"image": "data/kaskade_04.jpg",
+			"title": "<em>Kaskade:</em> Pulsierende Rhythmen"
+		},
+		{
+			"image": "data/kaskade_03.jpg",
+			"title": "<em>Kaskade:</em> Eine Show, in der K&ouml;rper und B&auml;lle zu einer Einheit verschmelzen"
+		},
+		{
+			"image": "data/mondbalance_03.jpg",
+			"title": "<em>Mondbalance:</em> Jonglage als Tanz der Planeten"
+		},
+		{
+			"image": "data/mondbalance.jpg",
+			"title": "<em>Mondbalance:</em> Der vierte Tag der Sch&ouml;pfung, eine Choreographie des Gleichgewichts"
+		},
+		{
+			"image": "data/keulen_pi_01.jpg",
+			"title": "<em>Keulen Pi:</em> Schnell, technisch und pr&auml;zise"
+		},
+		{
+			"image": "data/keulen_pi_02.jpg",
+			"title": "<em>Keulen Pi:</em> Eine Fusion aus Jonglage und Bewegungsexperimenten in 4 Sequenzen"
+		},
+		{
+			"image": "data/keulen_pi.jpg",
+			"title": "<em>Keulen Pi:</em> Eine Choreographie zu elektronischen Kl&auml;ngen zur Filmmusik von Pi"
+		},
+		{
+			"image": "data/diabolo_in_the_box_01.jpg",
+			"title": "<em>Diabolo in the box:</em> Eine anr&uuml;hrende Geschichte von Jack in the Box, der zum Leben erwacht"
+		},
+		{
+			"image": "data/diabolo_in_the_box_03.jpg",
+			"title": "<em>Diabolo in the box:</em> Eine hochkar&auml;tige Choreographie mit 1, 2, 3 Diabolos"
+		},
+		{
+			"image": "data/narrenkunst_01.jpg",
+			"title": "<em>Narrenkunst:</em> Jonglage zu Spr&uuml;ngen"
+		},
+		{
+			"image": "data/narrenkunst_03.jpg",
+			"title": "<em>Narrenkunst:</em> Jonglage zu Albernheiten"
+		},
+		{
+			"image": "data/narrenkunst_04.jpg",
+			"title": "<em>Narrenkunst:</em> Jonglage zu Verrenkungen"
+		},
+		{
+			"image": "data/narrenkunst_02.jpg",
+			"title": "<em>Narrenkunst:</em> Jonglage gepaart mit Zauberkunstst&uuml;cken und viel Humor"
+		},
+		{
+			"image": "data/raindrops_02.jpg",
+			"title": "<em>Raindrops:</em> Eine technisch brillante Performance, eingebettet in die Geschichte eines H&auml;ftlings, der die Freiheit seiner Zelle entdeckt"
+		},
+		{
+			"image": "data/der_koenig_der_diabolotricks.jpg",
+			"title": "<em>Der K&ouml;nig der Diabolotricks:</em> Es sollte nur ein einziger, jedoch ein ganz besonderer Trick sein. Doch der Artist verstrickt sich in immer neuen Vorbemerkungen und unz&auml;hligen Tricks ohne zu merken, dass aus seinem Geschwafel eine eigene Slapstickjonglage wird."
+		},
+		{
+			"image": "data/murmelspiele_01.jpg",
+			"title": "<em>Murmelspiele:</em> Kindlich vertr&auml;umte Kontaktjonglage..."
+		},
+		{
+			"image": "data/murmelspiele_02.jpg",
+			"title": "<em>Murmelspiele:</em> Eine Murmelbahn und ein K&ouml;rper komponiert zu einer poetischen Choreographie"
+		}
+	],
+	"lebende_skulpturen":  [
+		{
+			"image": "data/lebende_skulpturen_01.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_02.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_03.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_04.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_05.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_06.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_07.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_08.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_09.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_10.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_11.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_12.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_13.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		},
+		{
+			"image": "data/lebende_skulpturen_14.jpg",
+			"title": "<em>Lebende Skulpturen:</em> Die Langsamkeit der Bewegungen legt sich wie ein Tuch auf die Seele des Betrachters"
+		}
+	],
+	"walkacts":            [
+		{
+			"image": "data/inkognito_01.jpg",
+			"title": "<em>Inkognito:</em> Lebende Skulpturen sind die &uuml;berraschende Dekoration f&uuml;r Ihre Veranstaltung"
+		},
+		{
+			"image": "data/inkognito_02.jpg",
+			"title": "<em>Inkognito:</em> Als Skulptur oder in Interaktion mit den G&auml;sten"
+		},
+		{
+			"image": "data/stelzen_01.jpg",
+			"title": "<em>Stelzen:</em> &Uuml;berraschungen machen aus G&auml;sten Freunde"
+		},
+		{
+			"image": "data/stelzen_02.jpg",
+			"title": "<em>Stelzen:</em> Artisten modellieren Ballons und sorgen mit Animationen f&uuml;r gute Laune"
+		},
+		{
+			"image": "data/stelzen_03.jpg",
+			"title": "<em>Stelzen:</em> Stelzenl&auml;ufer, die Farbklekse f&uuml;r jede Veranstaltung"
+		}
+	],
+	"zauberei":            [
+		{
+			"image": "data/messer.jpg",
+			"title": "<em>Messer:</em> Ein Mentalist, drei Papiert&uuml;ten, ein Messer und ganz viele Muskeln und Sehnen, die auf ein glimpfliches Ende hoffen. Bei dieser Nummer bekommen auch die Zuschauer feuchte H&auml;nde."
+		},
+		{
+			"image": "data/ein_ring_ist_ein_ring_01.jpg",
+			"title": "<em>Ein Ring ist ein Ring:</em> Eine philosophisch-absurde Betrachtung &uuml;ber die Verkettung der menschlichen Schicksale."
+		},
+		{
+			"image": "data/der_chinese.jpg",
+			"title": "<em>Der Chinese:</em> Der wohl schlechteste Origamik&uuml;nstler in ganz Asien. Aber ein komischer Kauz und ein verbl&uuml;ffender Zauberer."
+		},
+		{
+			"image": "data/schnipsel.jpg",
+			"title": "<em>Schnipsel:</em> Wer w&uuml;rde diesem abgedrehten Wicht sein Geld anvertrauen? Der verr&uuml;ckte Zwerg spielt gerne mit großen Scheinen und mit dem Feuer. Eine Di&auml;t f&uuml;r Ihren Geldbeutel und ein Workout f&uuml;r ihre Lachmuskeln."
+		},
+		{
+			"image": "data/vorhersager_01.jpg",
+			"title": "<em>Der Vorhersager:</em> So eigenartig der Name dieses Mentalisten, so eigenwillig komisch seine Mentalmagie."
+		},
+		{
+			"image": "data/becherspiel_01.jpg",
+			"title": "<em>Becherspiel:</em> „Ich bin kein Zauberer. Und ich kann auch nicht zaubern.\" Anhand absurder Zauberkunstst&uuml;cke wird dieser Herr seine These beweisen."
+		},
+		{
+			"image": "data/fruehstueckspause.jpg",
+			"title": "<em>Fr&uuml;hst&uuml;ckspause:</em> Eine Slapstickzauberei um ein verlorenes Pausenbrot und notgedrungen verspeiste Rasierklingen"
+		}
+	]
+}
