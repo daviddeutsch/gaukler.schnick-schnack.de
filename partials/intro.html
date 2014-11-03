@@ -1,0 +1,12 @@
+<div id="intro">
+	<div class="picture_collection">
+		<a ng-repeat="gallery in galleries" ui-sref="gallerie({path: gallery.key})" class="front_collection">
+			<img alt="image" src="" ng-src="data/{{ gallery.image }}.png"><br />{{ gallery.title}}
+		</a>
+	</div>
+	<div class="button_collection">
+		<a ng-repeat="doc in docs | limitTo:2" ui-sref="info({path: doc.key})" class="xxl">
+			<span class="center">{{ doc.title}}</span>
+		</a>
+	</div>
+</div>

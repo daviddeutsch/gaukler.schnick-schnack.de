@@ -1,0 +1,35 @@
+<div id="nav" ng-controller="NavCtrl">
+	<div id="controls-wrapper" class="load-item">
+		<div id="controls">
+
+			<a id="play-button"><img id="pauseplay" src="img/pause.png"/></a>
+			<div id="slidecounter">
+				<span class="slidenumber"></span> / <span class="totalslides"></span>
+			</div>
+			<ul id="slide-list"></ul>
+		</div>
+	</div>
+	<div id="progress-back" class="load-item">
+		<div id="progress-bar"></div>
+	</div>
+
+	<div id="menu">
+		<a ui-sref="home" id="home"></a>
+		<div id="menu-box">
+			<div id="menu-main">
+				<a ng-repeat="gallery in galleries" ui-sref="gallerie({path: gallery.key})" class="menu_entry">
+					<span class="center">{{ gallery.title }}</span>
+				</a>
+			</div>
+			<div id="menu-sub">
+				<a ng-repeat="doc in docs" ui-sref="info({path: doc.key})" class="menu_entry">
+					<span class="center">{{ doc.title}}</span>
+				</a>
+			</div>
+		</div>
+		<div id="footer">
+			<p>(c)2006-2014 <a href="http://www.schnick-schnack.de">Circus Schnick-Schnack e.V.</a></p>
+		</div>
+	</div>
+
+</div>

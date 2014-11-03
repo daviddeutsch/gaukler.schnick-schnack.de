@@ -1,5 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+<!DOCTYPE html>
+<html lang="de">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Die Gaukler des Circus Schnick-Schnack</title>
@@ -8,82 +8,24 @@
 	<link href="css/template.css" rel="stylesheet" type="text/css" />
 	<link href="css/supersized.css" rel="stylesheet" type="text/css" />
 	<link href="css/supersized.shutter.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery-1.10.2.js"></script>
 	<script type="text/javascript" src="js/jquery.easing.min.js"></script>
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<script type="text/javascript" src="js/angular-animate.min.js"></script>
+	<script type="text/javascript" src="js/angular-touch.min.js"></script>
+	<script type="text/javascript" src="js/angular-ui-router.min.js"></script>
+
 	<script type="text/javascript" src="js/supersized.3.2.6.js"></script>
 	<script type="text/javascript" src="js/supersized.shutter.min.js"></script>
 	<script type="text/javascript" src="js/gaukler.js"></script>
 </head>
 <body>
-<div id="sitewrap">
-	<div id="content-wrap">
-		<div id="intro">
-			<div class="picture_collection">
-				<a href="#akrobatik" class="front_collection"><img alt="image" src="data/start_01.png"><br />Akrobatik</a>
-				<a href="#closeup_zaubern" class="front_collection"><img alt="image" src="data/start_09.png"><br />Closeup Zaubern</a>
-				<a href="#clownerie_slapstick" class="front_collection"><img alt="image" src="data/start_07.png"><br />Clownerie &amp; Slapstick</a>
-				<a href="#einrad_stelzen" class="front_collection"><img alt="image" src="data/start_02.png"><br />Einrad &amp; Stelzen</a>
-				<a href="#feuerkunst" class="front_collection"><img alt="image" src="data/start_03.png"><br />Feuerkunst</a>
-				<a href="#hulahoop_swinging" class="front_collection"><img alt="image" src="data/start_04.png"><br />Hulahoop &amp; Swinging</a>
-				<a href="#jonglage" class="front_collection"><img alt="image" src="data/start_05.png"><br />Jonglage</a>
-				<a href="#lebende_skulpturen" class="front_collection"><img alt="image" src="data/start_06.png"><br />Lebende Skulpturen</a>
-				<a href="#walkacts" class="front_collection"><img alt="image" src="data/start_08.png"><br />Walkacts</a>
-				<a href="#zauberei" class="front_collection"><img alt="image" src="data/start_10.png"><br />Zauberei</a>
-			</div>
-			<div class="button_collection">
-				<a class="xxl" href="#programme"><span class="center">Programme</span></a>
-				<a class="xxl" href="#charity"><span class="center">Charity</span></a>
-			</div>
-		</div>
-	</div>
-	<a id="prevslide" class="load-item"></a>
-	<a id="nextslide" class="load-item"></a>
-	<div id="slidecaption"></div>
-	<div id="nav">
-		<div id="controls-wrapper" class="load-item">
-			<div id="controls">
-
-				<a id="play-button"><img id="pauseplay" src="img/pause.png"/></a>
-				<div id="slidecounter">
-					<span class="slidenumber"></span> / <span class="totalslides"></span>
-				</div>
-				<ul id="slide-list"></ul>
-			</div>
-		</div>
-		<div id="progress-back" class="load-item">
-			<div id="progress-bar"></div>
+	<div id="sitewrap" ng-app="gauklerApp">
+		<div id="content-wrap">
+			<div ui-view="main" class="am-fade"></div>
 		</div>
 
-		<div id="menu">
-			<a href="http://gaukler.schnick-schnack.de" id="home"></a>
-			<div id="menu-box">
-				<div id="menu-main">
-					<a class="menu_entry" href="#akrobatik"><span class="center">Akrobatik</span></a>
-					<a class="menu_entry" href="#closeup_zaubern"><span class="center">Closeup Zaubern</span></a>
-					<a class="menu_entry" href="#clownerie_slapstick"><span class="center">Clownerie &amp; Slapstick</span></a>
-					<a class="menu_entry" href="#einrad_stelzen"><span class="center">Einrad &amp; Stelzen</span></a>
-					<a class="menu_entry" href="#feuerkunst"><span class="center">Feuerkunst</span></a>
-					<a class="menu_entry" href="#hulahoop_swinging"><span class="center">Hulahoop &amp; Swinging</span></a>
-					<a class="menu_entry" href="#jonglage"><span class="center">Jonglage</span></a>
-					<a class="menu_entry" href="#lebende_skulpturen"><span class="center">Lebende Skulpturen</span></a>
-					<a class="menu_entry" href="#walkacts"><span class="center">Walkacts</span></a>
-					<a class="menu_entry" href="#zauberei"><span class="center">Zauberei</span></a>
-				</div>
-				<div id="menu-sub">
-					<a class="menu_entry" href="#programme"><span class="center">Programme</span></a>
-					<a class="menu_entry" href="#charity"><span class="center">Charity</span></a>
-					<a class="menu_entry" href="#technik"><span class="center">Technische Fragen</span></a>
-					<a class="menu_entry" href="#referenzen"><span class="center">Referenzen</span></a>
-					<a class="menu_entry" href="#kosten"><span class="center">Kosten</span></a>
-					<a class="menu_entry" href="#kontakt"><span class="center">Kontakt &amp; Buchung</span></a>
-				</div>
-			</div>
-			<div id="footer">
-				<p>(c)2006-2014 <a href="http://www.schnick-schnack.de">Circus Schnick-Schnack e.V.</a></p>
-			</div>
-		</div>
-
-		</div>
+		<div ng-include="'partials/nav.html'"></div>
 	</div>
 </body>
 </html>
