@@ -30,6 +30,10 @@
 					"main": {
 						templateUrl: 'partials/gallery.html'
 					}
+				},
+				onExit: function() {
+					// Clear out old slides
+					angular.element('#supersized li').remove();
 				}
 			})
 
